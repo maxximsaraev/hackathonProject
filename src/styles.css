@@ -24,7 +24,7 @@ body {
     list-style: none;
 }
 
-.menu.open {
+.menu.open{
     display: block;
 }
 
